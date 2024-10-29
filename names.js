@@ -7,4 +7,4 @@ function names(firstName, lastName) {
 };
 
 //Esporta la funzione dal file.
-module.exports = names('John', 'Doe')
+module.exports = names

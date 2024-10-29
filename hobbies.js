@@ -10,4 +10,4 @@ function hobbies(hobbyOne, hobbyTwo, hobbyThree) {
 }
 
 //Esporta la funzione dal file.
-module.exports = hobbies('escursionismo', 'giardinaggio', 'fotografia')
+module.exports = hobbies
